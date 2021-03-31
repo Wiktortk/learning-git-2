@@ -1,0 +1,6 @@
+<p>
+  <button>Click me!</button>
+  <div id="show-me">
+    Lorem ipsum
+  </div>
+</p>
