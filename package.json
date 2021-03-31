@@ -5,10 +5,12 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.26.14"
+    "browser-sync": "^2.26.14",
+    "html-validate": "^4.8.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "html-validate": "html-validate index.html"   
   },
   "repository": {
     "type": "git",
