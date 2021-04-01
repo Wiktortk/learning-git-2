@@ -1,7 +1,6 @@
 {
   "name": "learning-git-2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -10,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "html-validate": "html-validate index.html"   
+    "html-validate": "html-validate index.html"
   },
   "repository": {
     "type": "git",
@@ -22,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/Wiktortk/learning-git-2/issues"
   },
-  "homepage": "https://github.com/Wiktortk/learning-git-2#readme"
+  "homepage": "https://github.com/Wiktortk/learning-git-2#readme",
+  "description": ""
 }
